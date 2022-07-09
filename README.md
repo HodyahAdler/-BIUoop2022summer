@@ -10,5 +10,8 @@ This course intends to teach the basics of object-oriented programming, through 
 
 Optional Reading:
 
+
 The Java Trail / Tutorials - http://docs.oracle.com/javase/tutorial/reallybigindex.html
+
+
 Java Language Specification - https://github.com/ariecattan/biuoop2022/blob/main/materials/jls3.pdf
